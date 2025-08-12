@@ -3,3 +3,9 @@ body {
   height: 100%;
   margin: 0;
 }
+.centre{
+  text-align: center;
+}
+.align{
+  align-content: center;
+}
